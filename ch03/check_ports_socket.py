@@ -4,7 +4,8 @@ def checkPortsSocket(ip, portlist):
   try:
     for port in portlist:
       s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-      err = s.connect_ex(('localhost', port))
+      s.settimeout(5)
+      err = s.connect_ex((ip, port))
       if err == 0:
         print(f'Port {port}: \t Open', err)
       else:
