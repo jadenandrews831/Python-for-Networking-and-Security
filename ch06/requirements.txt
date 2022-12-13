@@ -1,4 +1,0 @@
-dnspython==2.2.1
-pybinaryedge==0.5
-requests==2.28.1
-shodan==1.28.0

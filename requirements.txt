@@ -1,8 +1,11 @@
 aiohttp==3.8.3
+dnspython==2.2.1
 gevent_socketio==0.3.6
 httpx==0.23.1
 numpy==1.23.3
+pybinaryedge==0.5
 requests==2.28.1
+shodan==1.28.0
 SocksiPy_branch==1.01
 torpy==1.1.6
 torrequest==0.1.0
