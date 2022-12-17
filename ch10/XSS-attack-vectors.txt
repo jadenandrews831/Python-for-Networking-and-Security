@@ -1,0 +1,4 @@
+<SCRIPT>alert('XSS');</SCRIPT>
+<script>alert('XSS');</script>
+<BODY ONLOAD=alert('XSS')>
+<SCR%00IPT>alert(\'XSS\')</SCR%00IPT>”
