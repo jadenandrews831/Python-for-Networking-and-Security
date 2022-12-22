@@ -1,0 +1,10 @@
+2022-12-22 10:43:42,817 - __main__ - DEBUG - debug message
+2022-12-22 10:43:42,817 - __main__ - INFO - info message
+2022-12-22 10:43:42,817 - __main__ - WARNING - warning message
+2022-12-22 10:43:42,817 - __main__ - ERROR - error message
+2022-12-22 10:43:42,818 - __main__ - CRITICAL - critical error message
+2022-12-22 10:46:29,419 - __main__ - DEBUG - debug message
+2022-12-22 10:46:29,419 - __main__ - INFO - info message
+2022-12-22 10:46:29,419 - __main__ - WARNING - warning message
+2022-12-22 10:46:29,419 - __main__ - ERROR - error message
+2022-12-22 10:46:29,419 - __main__ - CRITICAL - critical error message
