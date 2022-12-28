@@ -12,5 +12,5 @@ else:
   logging.basicConfig(level=logging.INFO)
 
 logger = logging.getLogger('root')
-logger.debug('FileHanderl message')
+logger.debug('FileHandler message')
 logger.debug('message for both handlers')
